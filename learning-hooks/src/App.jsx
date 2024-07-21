@@ -9,7 +9,7 @@ function App() {
 
     id : 1,
     title : "Go to Gym",
-    description : "Jao bhai kya kr rahe ho"
+    description : "Ja bhai kya kr rha hai"
 
   },{
 

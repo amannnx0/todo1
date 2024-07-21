@@ -28,7 +28,7 @@ function App() {
   function addTodo(){
     setTodos([...toodos,{
       id : 4,
-      title : "han bhai",
+      title : "check",
       description : "new todo yay"
     }])
   }
